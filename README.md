@@ -18,7 +18,7 @@ pip install pyqubo requests
 ## Usage
 ```
 python3 qualign.py -s1 "AA1SEQ" -s2 "AA2SEQ"
-
+```
 
 ## Licence
 [MIT Licence](https://github.com/ymatsumoto/qualign/blob/master/LICENSE)
