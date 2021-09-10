@@ -17,9 +17,7 @@ pip install pyqubo requests
 
 ## Usage
 ```
-qualign/qualign -g 3 "seq1" "seq2"
-```
-'-g' allows N maximum gap (default: 0 or difference length of two sequences)
+python3 qualign.py -s1 "AA1SEQ" -s2 "AA2SEQ"
 
 
 ## Licence
